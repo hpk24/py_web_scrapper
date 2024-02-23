@@ -1,1 +1,1 @@
-# py_web_scrapper
+This is a Python web scrapper using beautiful soup and pandas
